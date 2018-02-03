@@ -1,0 +1,19 @@
+This is a ship game,WASD for you to move your ship.
+
+L for you to turn on the lighthouse. 
+
+The light will change with time passing.
+
+Eat more grey square!! 
+
+When you eat first square ,There will be a ship chasing you,and your speed will low down after you eat those square.
+If you are caught,the game will reset.
+
+If YOU CAN EAT ALL OF THE SQUARE, SURPRISE WILL OCCUR!
+
+BIG SORRY FOR NOT DOING THE INSTRUCTION IN THE GAME.(NEED MORE TIME TO PREPARE EXAM...)
+
+Should be a real light, a transparent light is on the tower(maybe not easy to see),I tried to set the color matrial of
+the light but failed.Could you please check the code on line 808 in class Mainwindow,when i use color matrial its implement to
+all of the objects and i don't know why. 
+If you know the reason,could you please send me an email(387768428@qq.com). Thank you very much!! 
